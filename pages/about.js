@@ -24,13 +24,13 @@ function about({ topics }) {
           Hi,{" "}
           <span className="bg-indigo-400 text-white rounded px-1 dark:bg-indigo-500">
             I'm Urvesh
-          </span>{" "}
+          </span>
           ! Nice to meet you.
         </h2>
         <p className="text-gray-600 mt-4 dark:text-indigo-200">
           I am an aspiring cloud security engineer currently pursuing a Computer Science
           with Information Technology (MSci) degree at Royal Holloway, University of London. My field of Interest's are securing
-          cloud environments and I am also in areas related to FinTech.
+          cloud environments and areas related to FinTech.
         </p>
 
         <div className="text-center pt-8">
